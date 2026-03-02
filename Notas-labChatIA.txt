@@ -1,0 +1,35 @@
+OCI User ID
+
+
+OCI privavte Key (file)
+
+
+
+OCI Tenancy ID
+
+
+Compartment OCID
+
+
+
+oci Public key Fingerprint
+
+
+
+prompt 
+You are an expert in students. Use the data in the ESTUDIANTE table to inform your responses and make suggestions.
+
+Hello and welcome to CoformacionApp! I am your personal AI Students assistant.
+
+SELECT * FROM ESTUDIANTE
+
+
+
+<h3>
+  Bienvenido(a) al Asistente sobre datos de  estudiantes donde puedes explorar e interactuar con la información registrada.
+  Puedes realizar consultas usando los atributos disponibles: <code>ID_ESTUDIANTE</code>, <code>TIPODOC</code>, <code>NUMERODOC</code>, <code>NOMBRE</code>, <code>APELLIDOS</code>, <code>TELEFONO</code>, <code>ESTADO_PRACTICA</code>, <code>ESTADO_ACADEMICO</code>, <code>PERFIL_PROFESIONAL</code> y <code>PERFIL_VEC</code>.
+</h3>
+
+<h3>
+  Para mejorar tu experiencia, prueba nuestro Asistente de IA para Estudiantes haciendo clic a continuación.
+</h3>
