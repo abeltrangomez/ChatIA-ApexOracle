@@ -40,18 +40,9 @@ Se crea el *Workspace* donde se realizará el desarrollo de la aplicación APEX 
 **Recurso (video):**  
 https://uniempresarial-my.sharepoint.com/:v:/g/personal/abeltran_uniempresarial_edu_co/IQAmQYQKDgavTZ3p6WfHkXldAR1Ae0GOjnEb5Wmr6E1Pm78?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=jndGF2
 
----
 
-### 2. Creación de GenAI Service en OCI
 
-Se configura el servicio de **IA generativa en OCI** que será consumido desde APEX para generar respuestas a partir de prompts y contexto.
-
-**Recurso (video):**  
-https://www.loom.com/share/f4027434d20244029f37bf0e26cc90c9
-
----
-
-### 3. Crear la App básica en APEX
+### 2. Crear la App básica en APEX
 
 Se construye una aplicación mínima en APEX que servirá como base para integrar el chat y la lógica de interacción con GenAI.
 
@@ -60,7 +51,7 @@ https://uniempresarial-my.sharepoint.com/:v:/g/personal/abeltran_uniempresarial_
 
 ---
 
-### 4. Crear las API Key en OCI
+### 3. Crear las API Key en OCI
 
 Se generan las **API Keys** requeridas para autenticar y autorizar las llamadas desde APEX hacia los servicios de OCI.
 
@@ -69,7 +60,7 @@ https://www.loom.com/share/6867b4cfc0474469a4dce5614e968889
 
 ---
 
-### 5. Copiar las OCI Keys
+### 4. Copiar las OCI Keys
 
 Se recopilan los valores necesarios asociados a las llaves y al usuario en OCI para completar la configuración de conexión con APEX.
 
@@ -78,7 +69,7 @@ https://www.loom.com/share/3022f70cbdb444fb8acbbc8bb76a65c7
 
 ---
 
-### 6. Crear credenciales Web para APEX
+### 5. Crear credenciales Web para APEX
 
 Se registran las credenciales dentro de APEX para permitir el consumo de endpoints externos (OCI GenAI) desde la aplicación.
 
@@ -87,6 +78,14 @@ https://www.loom.com/share/1f6aa3ba375e4be1857128385de7ceb1
 
 ---
 
+### 6. Creación de GenAI Service en OCI
+
+Se configura el servicio de **IA generativa en OCI** que será consumido desde APEX para generar respuestas a partir de prompts y contexto.
+
+**Recurso (video):**  
+https://www.loom.com/share/f4027434d20244029f37bf0e26cc90c9
+
+---
 ### 7. Crear la Generative AI para estudiantes
 
 Se configura la funcionalidad de IA generativa orientada al caso de uso de estudiantes, definiendo el comportamiento esperado del asistente.
