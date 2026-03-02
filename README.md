@@ -7,6 +7,9 @@
 4. 
 5. Creacion de GenAIservice  https://www.loom.com/share/f4027434d20244029f37bf0e26cc90c9
 6. Crear la App Basica
-7. Crear la Generative IA para Estudiantes https://www.loom.com/share/741a2dd1db704c95acca14a699c7e755
-8. 
+   https://uniempresarial-my.sharepoint.com/:v:/g/personal/abeltran_uniempresarial_edu_co/IQAqaAO02u-tQLppurfu9ZdoAYXUo9m48iUgjS_z7DiywvI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PBO7Jn
+
+   
+8. Crear la Generative IA para Estudiantes https://www.loom.com/share/741a2dd1db704c95acca14a699c7e755
+9. 
 
