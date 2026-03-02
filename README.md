@@ -4,7 +4,9 @@
 2. 
 
 3. 
-4. Crear la app
+4. 
 5. Creacion de GenAIservice  https://www.loom.com/share/f4027434d20244029f37bf0e26cc90c9
-6. 
+6. Crear la App Basica
+7. Crear la Generative IA para Estudiantes https://www.loom.com/share/741a2dd1db704c95acca14a699c7e755
+8. 
 
