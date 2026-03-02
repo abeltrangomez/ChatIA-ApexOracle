@@ -1,7 +1,7 @@
 
 # ChatIA-ApexOracle
 
-Este repositorio contiene un **taller académico** para construir un **chat con IA generativa** dentro de **Oracle APEX**, usando **OCI Generative AI** y **datos en Oracle** como fuente de conocimiento.
+Este repositorio contiene un **taller** para construir un **chat con IA generativa** dentro de **Oracle APEX**, usando **OCI Generative AI** y **datos en Oracle** como fuente de conocimiento.
 
 **Origen del taller:** Adaptación de *Oracle LiveLabs* “Building Intelligent APEX Apps with OCI Gen AI and Your Oracle Data”.  
 Referencia: https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4255&clear=RR,180&session=134445940433032
@@ -16,7 +16,7 @@ Desarrollar una aplicación en **Oracle APEX** que permita a los usuarios hacer 
 
 ## Prerrequisito
 
-Haber finalizado el taller anterior: **creación de la base de datos con políticas de IA en el comportamiento**.
+Haber finalizado el taller anterior: **creación de la base de datos con políticas de IA en un compartimento**.
 
 ---
 
